@@ -1,0 +1,24 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+
+.jumbotron{ width: 100%;
+    height: 400px;
+    background-color: #606060;
+    background-image: url(images/jumbotronbg.png);
+    color: white;
+    margin-top: 20px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.morepaddingorsomething {
+    margin-top: 60px;
+}
+
+.col-md-2 {
+    padding-bottom: 100px;
+}
